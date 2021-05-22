@@ -13,12 +13,24 @@
     text-align: center;
 }
 .member-image{
-    background-image: url(../images/logo.png);
+    /* background-image: url(../images/logo.png); */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
     height: 100%;
+}
+.shrikant{
+    background-image: url(../images/shrikant.jpg);
+}
+.darshana{
+    background-image: url(../images/darshna.jpg);
+}
+.shubhangi{
+    background-image: url(../images/shubhangi.jpg);
+}
+.aniket{
+    background-image: url(../images/aniket.jpeg);
 }
 .member-info{
     opacity: 0;
